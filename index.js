@@ -1,3 +1,5 @@
+//Stock Market Portfolio app by Ben Hall
+
 const express = require('express');
 const app = express();
 const exphbs  = require('express-handlebars');
